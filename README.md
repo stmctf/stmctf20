@@ -4,4 +4,4 @@
 Final Result : https://ctf-scoreboard.yeni.digital/
 
 
-![Preview]()
+![Preview](https://github.com/stmctf/stmctf20/blob/main/logo.png)
